@@ -1,36 +1,48 @@
-# Senior SWE Interview Preparation 2026-27
+# The Engineering Playbook
 
-## About This Repository
+*A personal collection of engineering knowledge, problem-solving patterns, design principles, and technical learnings.*
 
-This repository documents my structured preparation for Senior Software Engineer / SDE III opportunities at product-based technology companies.
+Welcome to **The Engineering Playbook** — my evolving space for learning, documenting, and exploring software engineering.
 
-It serves as a practical engineering portfolio covering problem-solving, system design, and core software engineering concepts.
+This repository brings together the concepts, patterns, and practical insights that shape how I think, design, build, and solve engineering problems.
 
-## Areas of Focus
+The goal is simple: **go beyond writing code and develop a deeper understanding of engineering.**
 
-### 1. Data Structures & Algorithms
-- Topic-wise problem-solving
-- C++ solutions
-- Complexity analysis
-- Reusable problem-solving patterns
+## 📚 Areas of Focus
 
-### 2. System Design
-- System design fundamentals
-- Architecture and component design
-- API and data modeling
-- Scalability, caching, reliability, and trade-offs
-- Real-world system design case studies
+### 1. Data Structures & Algorithms (`dsa/`)
+Building strong problem-solving skills through fundamental data structures, algorithms, coding patterns, and optimized solutions.
 
-### 3. Engineering Notes
-- Software engineering fundamentals
-- Clean code and design principles
-- Backend and distributed systems concepts
-- AI-assisted software development learnings
+### 2. System Design (`system-design/`)
+Exploring scalable and reliable software architectures, distributed systems, design trade-offs, APIs, databases, caching, and real-world system design problems.
 
-## Primary Language
-C++
+### 3. Behavioral Engineering (`behavioral/`)
+Documenting professional experiences, decision-making, ownership, collaboration, leadership, conflict resolution, and lessons learned throughout my engineering journey.
 
-## Approach
-Learn deeply. Practice consistently. Document meaningful engineering work.
+### 4. Artificial Intelligence (`ai/`)
+Exploring AI-assisted development, LLMs, Claude Code, APIs, agentic applications, tool calling, and practical AI engineering workflows.
 
-This repository will evolve as I strengthen my technical depth and engineering skills.
+### 5. Engineering Notes (`engineering-notes/`)
+A growing collection of software engineering fundamentals, computer science concepts, design principles, clean code practices, and technical deep dives.
+
+## 🧭 My Engineering Philosophy
+
+- Understand the **why**, not just the how.
+- Focus on fundamentals before frameworks.
+- Think about scalability, reliability, and maintainability.
+- Learn by building, experimenting, and solving problems.
+- Document meaningful learnings and revisit them.
+- Keep improving — one concept, one problem, one commit at a time.
+
+## 🛠️ Primary Technologies
+
+- **Languages:** C++, with other languages added as projects require.
+- **Core Areas:** Data Structures & Algorithms, System Design, Software Engineering, AI Engineering.
+
+## 🌱 An Evolving Playbook
+
+This is a continuous learning journey, not a finished handbook.
+
+The content will evolve as I explore new concepts, solve challenging problems, build projects, and gain practical engineering experience.
+
+**Think deeply. Build thoughtfully. Keep learning.**
